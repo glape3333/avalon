@@ -1,0 +1,5 @@
+#Sun Apr 20 13:18:35 KST 2025
+BLOOM=false
+LENS_FLARE=false
+shadowDistance=512.0
+shadowMapResolution=3072
