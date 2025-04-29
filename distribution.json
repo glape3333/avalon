@@ -156,6 +156,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3779,
+            "url": "https://glape3333.github.io/avalon/servers/avalon-1.21.3/files/options.txt",
+            "MD5": "cd0ab1663efec4bae9a7ca6324004d17",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "BSL_v8.4.zip",
           "name": "BSL_v8.4.zip",
           "type": "File",
